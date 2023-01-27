@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# storybook-starter
 
 ## Getting Started
 
@@ -48,4 +48,4 @@ yarn storybook
 The stories directory is listed within src/stories directory. This is where we put our story code.
 
 In the PokemonCard.stories.tsx we import our PokemonCard component and then give it a template with default props
-through primary arguments. 
+through primary arguments.
